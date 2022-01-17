@@ -1,0 +1,41 @@
+h2{
+  text-align: center;
+}
+.accordion{
+  background-color: white;
+  margin-left: 30%;
+  width: 40%;
+  height: auto;
+  margin-top: 40px;
+
+}
+.item{
+  
+  font-size: medium;
+  font-weight: 500;
+  background-color: rgb(216, 203, 203);
+  margin: 10px 10px;
+}
+/* .main1:hover{
+  background-color: rgb(129, 125, 125);
+} */
+.ques{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+}
+.item h3{
+ 
+  margin-left: 10px;
+}
+.ques span{
+  margin-top: 10px;
+}
+.ans{
+  text-align: left;
+  font-size: small;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-weight: 400;
+}
