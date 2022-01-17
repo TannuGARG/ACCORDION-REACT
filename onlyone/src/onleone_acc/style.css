@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(202, 199, 199);
+}
+.container h2{
+    height: 40px;
+    
+    
+}
+.container{
+    background-color: white;
+    margin-left: 30%;
+    width: 40%;
+    height: auto;
+    
+}
+.main1{
+    display: flex;
+    justify-content: space-between;
+    background-color:rgb(202, 199, 199) ;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin: 10px 20px 10px 20px;
+    border-radius: 3px;
+    
+}
+.ques{
+    font-size: medium;
+    font-weight: 500;
+}
+/* .main1:hover{
+    background-color: rgb(129, 125, 125);
+} */
+.ans{
+    text-align: left;
+    font-size: small;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-weight: 400;
+}
